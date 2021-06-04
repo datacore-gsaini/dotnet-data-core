@@ -4,3 +4,9 @@ E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csproj.Cor
 E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.dll
 E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.pdb
 E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csprojAssemblyReference.cache
+D:\Github\dotnet-data-core\WCFExtensibilityLib\bin\Debug\WCFExtensibilityLib.dll
+D:\Github\dotnet-data-core\WCFExtensibilityLib\bin\Debug\WCFExtensibilityLib.pdb
+D:\Github\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.dll
+D:\Github\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.pdb

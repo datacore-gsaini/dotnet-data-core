@@ -3,3 +3,8 @@ E:\dotnet-data-core\ConcuurencyModeServerContractLib\bin\Debug\ConcuurencyModeSe
 E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.dll
 E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.pdb
+D:\Github\dotnet-data-core\ConcuurencyModeServerContractLib\bin\Debug\ConcuurencyModeServerContractLib.dll
+D:\Github\dotnet-data-core\ConcuurencyModeServerContractLib\bin\Debug\ConcuurencyModeServerContractLib.pdb
+D:\Github\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.dll
+D:\Github\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.pdb

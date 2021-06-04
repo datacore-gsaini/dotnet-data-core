@@ -5,3 +5,10 @@ E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csprojAssemblyRe
 E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.exe
 E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.pdb
+D:\Github\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.exe.config
+D:\Github\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.exe
+D:\Github\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.pdb
+D:\Github\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.exe
+D:\Github\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.pdb

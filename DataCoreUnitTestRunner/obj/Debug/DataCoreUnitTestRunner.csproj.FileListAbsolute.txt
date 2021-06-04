@@ -8,3 +8,13 @@ E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.cspr
 E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.CopyComplete
 E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.exe
 E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.pdb
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.exe.config
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.exe
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.pdb
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoueUnitTestLib.dll
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoueUnitTestLib.pdb
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.CopyComplete
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.exe
+D:\Github\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.pdb

@@ -12,3 +12,17 @@ E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.Cor
 E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.CopyComplete
 E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.exe
 E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.pdb
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.exe.config
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.exe
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.pdb
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServicePubisherContractLib.dll
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServiceSubscriberContractLib.dll
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\WCFExtensibilityLib.dll
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServicePubisherContractLib.pdb
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServiceSubscriberContractLib.pdb
+D:\Github\dotnet-data-core\SystemDataHubServer\bin\Debug\WCFExtensibilityLib.pdb
+D:\Github\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.CopyComplete
+D:\Github\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.exe
+D:\Github\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.pdb

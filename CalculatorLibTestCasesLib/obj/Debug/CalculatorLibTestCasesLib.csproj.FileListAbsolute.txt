@@ -9,3 +9,14 @@ E:\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLi
 E:\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.csproj.CopyComplete
 E:\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.dll
 E:\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.pdb
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\CalculatorLibTestCasesLib.dll
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\CalculatorLibTestCasesLib.pdb
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\CalculatorLib.dll
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\DataCoueUnitTestLib.dll
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\CalculatorLib.pdb
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\bin\Debug\DataCoueUnitTestLib.pdb
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.csproj.CopyComplete
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.dll
+D:\Github\dotnet-data-core\CalculatorLibTestCasesLib\obj\Debug\CalculatorLibTestCasesLib.pdb

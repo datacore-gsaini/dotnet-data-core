@@ -8,3 +8,13 @@ E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClien
 E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.exe
 E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.pdb
 E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csprojAssemblyReference.cache
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.exe.config
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.exe
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.pdb
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcuurencyModeServerContractLib.dll
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcuurencyModeServerContractLib.pdb
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csproj.CopyComplete
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.exe
+D:\Github\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.pdb

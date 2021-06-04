@@ -10,3 +10,15 @@ E:\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CoreCompileInputs.cac
 E:\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CopyComplete
 E:\dotnet-data-core\RestServer\obj\Debug\RestServer.exe
 E:\dotnet-data-core\RestServer\obj\Debug\RestServer.pdb
+D:\Github\dotnet-data-core\RestServer\bin\Debug\RestServer.exe.config
+D:\Github\dotnet-data-core\RestServer\bin\Debug\RestServer.exe
+D:\Github\dotnet-data-core\RestServer\bin\Debug\RestServer.pdb
+D:\Github\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceContractLib.dll
+D:\Github\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceLib.dll
+D:\Github\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceContractLib.pdb
+D:\Github\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceLib.pdb
+D:\Github\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CopyComplete
+D:\Github\dotnet-data-core\RestServer\obj\Debug\RestServer.exe
+D:\Github\dotnet-data-core\RestServer\obj\Debug\RestServer.pdb

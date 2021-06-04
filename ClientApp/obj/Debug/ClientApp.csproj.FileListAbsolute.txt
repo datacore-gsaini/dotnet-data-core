@@ -4,3 +4,13 @@ E:\dotnet-data-core\ClientApp\bin\Debug\ClientApp.pdb
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.exe
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.pdb
+D:\Github\dotnet-data-core\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Github\dotnet-data-core\ClientApp\bin\Debug\ClientApp.exe
+D:\Github\dotnet-data-core\ClientApp\bin\Debug\ClientApp.pdb
+D:\Github\dotnet-data-core\ClientApp\bin\Debug\DataHubServiceSubscriberContractLib.dll
+D:\Github\dotnet-data-core\ClientApp\bin\Debug\DataHubServiceSubscriberContractLib.pdb
+D:\Github\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Github\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+D:\Github\dotnet-data-core\ClientApp\obj\Debug\ClientApp.exe
+D:\Github\dotnet-data-core\ClientApp\obj\Debug\ClientApp.pdb

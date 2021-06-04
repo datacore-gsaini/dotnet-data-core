@@ -18,3 +18,5 @@ E:\dotnet-data-core\Server\bin\Debug\ConfigurationProvierServiceContractLib.pdb
 E:\dotnet-data-core\Server\bin\Debug\ConfigurationServiceDataContractsLib.pdb
 E:\dotnet-data-core\Server\bin\Debug\WCFExtensibilityLib.dll
 E:\dotnet-data-core\Server\bin\Debug\WCFExtensibilityLib.pdb
+D:\Github\dotnet-data-core\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Github\dotnet-data-core\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
